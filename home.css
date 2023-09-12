@@ -152,7 +152,7 @@ html, body
     margin-top:2rem;
     border:5px solid #000000;
     padding:0.4rem 0.4rem;
-    font-size:2.5vw;
+    font-size:2.8vw;
 }
 
 .content2
@@ -219,7 +219,7 @@ html, body
     height:3rem;
     width:100%;
     background:#000000;
-    margin-top:10rem;
+    margin-top:8rem;
     color:#ffffff;
     display:flex;
     justify-content:center;
