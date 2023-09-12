@@ -136,9 +136,17 @@ html, body
     align-items:center;
 }
 
+.pic1 
+{
+    height:40%;
+    width:60%;
+    background-image:url('../img/pic1.jpg');
+    background-size:100% 100%;
+}
+
 .content 
 {
-    height:20%;
+    height:28%;
     width:70%;
     margin-left:15vw;
     margin-top:2rem;
