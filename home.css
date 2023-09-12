@@ -38,10 +38,12 @@ html, body
 
 .content 
 {
-    height:60%;
+    height:32vw;
     width:70%;
     margin-left:15vw;
+    font-size:2rem;
     margin-top:2rem;
+    padding:0.2vw 0.2vw;
     border:5px solid #000000;
     padding:0.4rem 0.4rem;
     font-size:2vw;
@@ -49,7 +51,7 @@ html, body
 
 .content2
 {
-    height:50%;
+    height:80%;
     width:80%;
     margin-left:12vw;
     margin-top:2rem;
