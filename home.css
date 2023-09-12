@@ -146,7 +146,7 @@ html, body
 
 .content 
 {
-    height:26%;
+    height:27%;
     width:70%;
     margin-left:15vw;
     margin-top:2rem;
@@ -164,7 +164,7 @@ html, body
     display:flex;
     justify-content:space-evenly;
     flex-wrap:wrap;
-    font-size:0.7rem;
+    font-size:0.9rem;
 }
 
 .sub_content1
@@ -219,7 +219,7 @@ html, body
     height:3rem;
     width:100%;
     background:#000000;
-    margin-top:8rem;
+    margin-top:5rem;
     color:#ffffff;
     display:flex;
     justify-content:center;
