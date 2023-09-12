@@ -33,14 +33,14 @@ html, body
     background-image:url('../img/pic1.jpg');
     background-size:100% 100%;
     margin-top:2rem;
-    margin-left:16rem;
+    margin-left:21vw;
 }
 
 .content 
 {
     height:60%;
     width:70%;
-    margin-left:12rem;
+    margin-left:15vw;
     margin-top:2rem;
     border:5px solid #000000;
     padding:0.4rem 0.4rem;
@@ -51,7 +51,7 @@ html, body
 {
     height:50%;
     width:80%;
-    margin-left:8rem;
+    margin-left:12vw;
     margin-top:2rem;
     display:flex;
     justify-content:space-evenly;
@@ -114,4 +114,105 @@ html, body
     display:flex;
     justify-content:center;
     align-items:center;
+}
+
+@media(max-width:600px)
+{
+
+
+.head 
+{
+    height:3rem;
+    width:100%;
+    background:#484848;
+    margin-top:2rem;
+    color:#ced2cc;
+    display:flex;
+    font-size:1.4rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.content 
+{
+    height:35%;
+    width:70%;
+    margin-left:15vw;
+    margin-top:2rem;
+    border:5px solid #000000;
+    padding:0.4rem 0.4rem;
+    font-size:2vw;
+}
+
+.content2
+{
+    height:50%;
+    width:80%;
+    margin-left:12vw;
+    margin-top:2rem;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
+.sub_content1
+{
+    height:100%;
+    width:40%;
+    display:flex;
+    flex-direction:column;
+}
+
+.pic2 
+{
+    height:60%;
+    width:100%;
+    background-image:url('../img/pic2.jpg');
+    background-size:100% 100%;
+    
+}
+
+.pic2_content 
+{
+    height:40%;
+    width:100%;
+}
+
+
+.sub_content2
+{
+    height:100%;
+    width:40%;
+    
+}
+
+.pic3 
+{
+    height:60%;
+    width:100%;
+    background-image:url('../img/pic3.jpg');
+    background-size:100% 100%;
+    
+}
+
+.pic3_content 
+{
+    height:40%;
+    width:100%;
+    
+}
+
+.footer 
+{
+    height:3rem;
+    width:100%;
+    background:#000000;
+    margin-top:8rem;
+    color:#ffffff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
 }
