@@ -139,14 +139,14 @@ html, body
 .pic1 
 {
     height:30%;
-    width:60%;
+    width:64%;
     background-image:url('../img/pic1.jpg');
     background-size:100% 100%;
 }
 
 .content 
 {
-    height:27%;
+    height:29%;
     width:70%;
     margin-left:15vw;
     margin-top:2rem;
